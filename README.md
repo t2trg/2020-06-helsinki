@@ -16,6 +16,7 @@ researchers free of charge, but registration is required.
 # Approximate Agenda
 
 | Time (UTC) | Subject                           | Who                                 |
+|------------|-----------------------------------|-------------------------------------|
 | 1200Z      | Welcome, Logistics                | Chairs                              |
 | 1210Z      | WoT Update                        |                                     |
 |            | Use Case Process and Overview     | Michael Lagally                     |

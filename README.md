@@ -11,7 +11,7 @@ The Internet Research Task Force (IRTF) Thing to Thing Research group (T2TRG), a
 
 Participation in the workshop is open to IoT developers and
 researchers free of charge, but registration is required.
-**(TBD: Add registration link.)**
+Please register here: <https://forms.gle/R33E7J3qM6nYLfQD8>
 
 # Approximate Agenda
 

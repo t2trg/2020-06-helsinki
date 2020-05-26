@@ -10,8 +10,8 @@ A first set of standards for self-description and discovery has been completed b
 The Internet Research Task Force (IRTF) Thing to Thing Research group (T2TRG), and the Worldwide Web Consortium (W3C) Interest Group (IG) on the Web of Things (WoT) are meeting online for a workshop on self-description and discovery on Monday, June 08, 2020.  The meeting was originally scheduled to take place physically in Helsinki, with the date chosen to coordinate with a number of other events, in particular the 20th International Conference on Web Engineering (ICWE 2020), which also was to take place in Helsinki, on Tuesday, June 09, to Friday, June 12.  It is now taking place online, on the originally planned day, from 1200Z (12:00 UTC) to 1500Z.
 
 Participation in the workshop is open to IoT developers and
-researchers free of charge, but registration is required.
-Please register here: <https://forms.gle/R33E7J3qM6nYLfQD8>
+researchers free of charge, but we ask you to register by Monday June 1st, to help
+planning with the logistics: <https://forms.gle/R33E7J3qM6nYLfQD8>
 
 # Approximate Agenda
 

@@ -15,6 +15,8 @@ planning with the logistics: <https://forms.gle/R33E7J3qM6nYLfQD8>
 
 # Approximate Agenda
 
+Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
+
 | Time (UTC) | Subject                           | Who                                 |
 |------------|-----------------------------------|-------------------------------------|
 | 1200Z      | Welcome, Logistics                | Chairs                              |

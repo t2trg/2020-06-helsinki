@@ -41,6 +41,8 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 
 [View workshop time in various timezones](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200608T12&msg=Helsinki%20workshop&ah=3&am=00&sort=2)
 
+[Obtain calendar invitation file (.ics)](https://rawcdn.githack.com/t2trg/2020-06-helsinki/414a8b584eeca3212c012b68092594e3ef89c5e7/t2trg-wot-20200608.ics)
+
 # Freezer
 
 Some topics will not fit into the 3-hour format necessitated by the

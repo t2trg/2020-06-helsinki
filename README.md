@@ -34,7 +34,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 | 1400Z      | OneDM/TD Integration              | Michael Koster/Sebastian Kaebisch   |
 |            | TD Templates; Modularity          |                                     |
 |            | Discussion                        |                                     |
-| 1430Z      | Hypermedia Controls in TDs and beyond; RESTful design | Victor Charpenay/Ege Korkan |
+| 1430Z      | Hypermedia Controls in TDs and beyond (+ impact on RESTful design draft) | Victor Charpenay/Ege Korkan |
 |            | Actions and Events, Handling URLs |                                     |
 |            | Discussion                        |                                     |
 | 1500Z      | Wrapup, end of meeting            | Chairs                              |

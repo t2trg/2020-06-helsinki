@@ -34,7 +34,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 | 1400Z      | OneDM/TD Integration              | Michael Koster/Sebastian Kaebisch   |
 |            | TD Templates; Modularity          |                                     |
 |            | Discussion                        |                                     |
-| 1430Z      | Hypermedia Controls in TDs and beyond (+ impact on RESTful design draft) | Victor Charpenay/Ege Korkan |
+| 1430Z      | [Hypermedia Controls][1] [in][2] [TDs][3] and beyond (+ impact on [RESTful design][RESTfulD]) | Victor Charpenay/Ege Korkan |
 |            | Actions and Events, Handling URLs |                                     |
 |            | Discussion                        |                                     |
 | 1500Z      | Wrapup, end of meeting            | Chairs                              |
@@ -42,6 +42,13 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 [View workshop time in various timezones](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200608T12&msg=Helsinki%20workshop&ah=3&am=00&sort=2)
 
 [Obtain calendar invitation file (.ics)](https://rawcdn.githack.com/t2trg/2020-06-helsinki/414a8b584eeca3212c012b68092594e3ef89c5e7/t2trg-wot-20200608.ics)
+
+[1]: https://github.com/w3c/wot-thing-description/tree/master/proposals/hypermedia-control
+[2]: https://github.com/w3c/wot-thing-description/pull/907
+[3]: https://github.com/w3c/wot-thing-description/issues/302
+[RESTfulD]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-05#section-5
+
+
 
 # Freezer
 

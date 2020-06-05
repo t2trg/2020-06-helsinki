@@ -31,7 +31,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 | 1340Z      | WoT PoC Progress                  |                                     |
 |            | Retail                            | Michael McCool/David Ezell          |
 |            | Smart City                        | Michael McCool/Jennifer Lin         |
-| 1400Z      | OneDM/TD Integration              | Michael Koster/Sebastian Kaebisch   |
+| 1400Z      | [OneDM/TD Integration][4]         | Michael Koster/~~Sebastian Kaebisch~~ |
 |            | TD Templates; Modularity          |                                     |
 |            | Discussion                        |                                     |
 | 1430Z      | [Hypermedia Controls][1] [in][2] [TDs][3] and beyond (+ impact on [RESTful design][RESTfulD]) | Victor Charpenay/Ege Korkan |
@@ -46,6 +46,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 [1]: https://github.com/w3c/wot-thing-description/tree/master/proposals/hypermedia-control
 [2]: https://github.com/w3c/wot-thing-description/pull/907
 [3]: https://github.com/w3c/wot-thing-description/issues/302
+[4]: https://github.com/w3c/wot-thing-description/issues/903
 [RESTfulD]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-05#section-5
 
 

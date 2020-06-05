@@ -22,7 +22,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 | 1200Z      | Welcome, Logistics                | Chairs                              |
 | 1210Z      | WoT Update                        |                                     |
 |            | Use Case Process and Overview     | Michael Lagally                     |
-|            | New Work Items                    | Michael McCool/Sebastian Kaebisch   |
+|            | New Work Items                    | Michael McCool/~~Sebastian Käbisch~~ |
 | 1220Z      | Lifecycle                         | Michael Lagally                     |
 |            | Discussion                        |                                     |
 | 1250Z      | WoT Discovery                     | Michael McCool                      |
@@ -31,7 +31,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 | 1340Z      | WoT PoC Progress                  |                                     |
 |            | Retail                            | Michael McCool/David Ezell          |
 |            | Smart City                        | Michael McCool/Jennifer Lin         |
-| 1400Z      | [OneDM/TD Integration][4]         | Michael Koster/~~Sebastian Kaebisch~~ |
+| 1400Z      | [OneDM/TD Integration][4]         | Michael Koster/~~Sebastian Käbisch~~ |
 |            | TD Templates; Modularity          |                                     |
 |            | Discussion                        |                                     |
 | 1430Z      | [Hypermedia Controls][1] [in][2] [TDs][3] and beyond (+ impact on [RESTful design][RESTfulD]) | Victor Charpenay/Ege Korkan |

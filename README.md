@@ -46,9 +46,9 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 [2]: https://github.com/w3c/wot-thing-description/pull/907
 [3]: https://github.com/w3c/wot-thing-description/issues/302
 [4]: https://github.com/w3c/wot-thing-description/issues/903
-[5]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-Intro-McCool.pptx
-[6]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-Discovery-McCool.pptx
-[7]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-PoCs-McCool.pptx
+[5]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-Intro-McCool.pdf
+[6]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-Discovery-McCool.pdf
+[7]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-PoCs-McCool.pdf
 [RESTfulD]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-05#section-5
 
 

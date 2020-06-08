@@ -20,15 +20,14 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 | Time (UTC) | Subject                           | Who                                 |
 |------------|-----------------------------------|-------------------------------------|
 | 1200Z      | Welcome, Logistics                | Chairs                              |
-| 1210Z      | WoT Update                        |                                     |
+| 1210Z      | [WoT Update][5]                        | Michael McCool/~~Sebastian Käbisch~~ |
 |            | Use Case Process and Overview     | Michael Lagally                     |
-|            | New Work Items                    | Michael McCool/~~Sebastian Käbisch~~ |
 | 1220Z      | Lifecycle                         | Michael Lagally                     |
 |            | Discussion                        |                                     |
-| 1250Z      | WoT Discovery                     | Michael McCool                      |
+| 1250Z      | [WoT Discovery][6]                     | Michael McCool                      |
 |            | Discussion                        |                                     |
 | 1320Z      | --- Break ---                     |                                     |
-| 1340Z      | WoT PoC Progress                  |                                     |
+| 1340Z      | [WoT PoC Progress][7]                 |                                     |
 |            | Retail                            | Michael McCool/David Ezell          |
 |            | Smart City                        | Michael McCool/Jennifer Lin         |
 | 1400Z      | [OneDM/TD Integration][4]         | Michael Koster/~~Sebastian Käbisch~~ |
@@ -47,6 +46,9 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 [2]: https://github.com/w3c/wot-thing-description/pull/907
 [3]: https://github.com/w3c/wot-thing-description/issues/302
 [4]: https://github.com/w3c/wot-thing-description/issues/903
+[5]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-Intro-McCool.pptx
+[6]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-Discovery-McCool.pptx
+[7]: https://github.com/w3c/wot/blob/master/PRESENTATIONS/2020-06-08-PoCs-McCool.pptx
 [RESTfulD]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-05#section-5
 
 

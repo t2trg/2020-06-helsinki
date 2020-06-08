@@ -19,7 +19,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 
 | Time (UTC) | Subject                           | Who                                 |
 |------------|-----------------------------------|-------------------------------------|
-| 1200Z      | Welcome, Logistics                | Chairs                              |
+| 1200Z      | [Welcome, Logistics][0]                | Chairs                              |
 | 1210Z      | [WoT Update][5]                        | Michael McCool/~~Sebastian Käbisch~~ |
 |            | Use Case Process and Overview     | Michael Lagally                     |
 | 1220Z      | Lifecycle                         | Michael Lagally                     |
@@ -42,6 +42,7 @@ Webex: https://ietf.webex.com/ietf/j.php?MTID=m16cc27a1b70c01d7d0bad4ed65b637db
 
 [Obtain calendar invitation file (.ics)](https://rawcdn.githack.com/t2trg/2020-06-helsinki/414a8b584eeca3212c012b68092594e3ef89c5e7/t2trg-wot-20200608.ics)
 
+[0]: https://github.com/t2trg/2020-06-helsinki/blob/master/slides/00-T2TRG-2020-06-helsinki-chair-slides.pdf
 [1]: https://github.com/w3c/wot-thing-description/tree/master/proposals/hypermedia-control
 [2]: https://github.com/w3c/wot-thing-description/pull/907
 [3]: https://github.com/w3c/wot-thing-description/issues/302
